@@ -1,4 +1,4 @@
-avointieto-kuntakierros
+Open Data Lapland Roadshow 2014
 =======================
 
-Avointieto Kuntakierros (Open Data Lapland Roadshow) 2014 materiaaleja ja suunnitelmia
+Avointieto Lappi kuntakierros 2014 -tapahtuman materiaaleja ja suunnitelmia
