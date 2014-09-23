@@ -1,4 +1,11 @@
-Open Data Lapland Roadshow 2014
-=======================
+Open Knowledge Roadshow 2014 - Lapland 
+======================================
 
-Avointieto Lappi kuntakierros 2014 -tapahtuman materiaaleja ja suunnitelmia
+Avoimen tiedon kuntakierros 2014 Lappi tapahtuman materiaalit:
+- suunnitelma
+- ohjelma
+- ilmoittautumiset
+- sisällöt
+- palaute
+
+
